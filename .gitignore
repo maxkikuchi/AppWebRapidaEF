@@ -38,3 +38,5 @@
 /.vs/MeuTodo/FileContentIndex
 /.vs/MeuTodo/v17/.suo
 /.vs/MeuTodo/DesignTimeBuild/.dtbcache.v2
+/obj/Debug/net5.0
+/.vs/MeuTodo/v17/TestStore/0
